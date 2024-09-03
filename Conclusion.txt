@@ -1,0 +1,7 @@
+Conclusion:
+En esta practica, aprendimos a crear una pagina web muy basica utilizando 
+unicamente las herramientas que nos proporciona HTML. Esto nos permitio 
+comprender mejor como funciona su estructura, el uso de etiquetas, y otros 
+elementos fundamentales para el desarrollo de paginas web. Fue una introducción 
+esencial al lenguaje para poder continuar con otros temas para personalizar un 
+poco mas nuestro proyecto.
